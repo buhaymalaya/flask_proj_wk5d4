@@ -1,0 +1,11 @@
+Using what we've learned in class, 
+it's time to hook up our database to our Flask app!
+Create a new instance in elephantsql, 
+instantiate a new db, and update routes for 
+AT LEAST one resource that now reflects persistent 
+data!  Please include your access URL as a private 
+comment on this assignment when you submit the link 
+to your github repository.
+
+For a challenge: Make all routes in your app 
+work happily with your DB!
